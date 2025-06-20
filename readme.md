@@ -1,5 +1,5 @@
 # The Bobasong
-Designed by (diuko)[https://disuko.gay] for the Create With Nabalis 2025 contest. Open source!
+Designed by [disuko](https://disuko.gay) for the Create With Nabalis 2025 contest. Open source!
 
 
 CC BY-SA
