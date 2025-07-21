@@ -4,6 +4,11 @@ I didn't get first place for mass production, so I decided to open source the de
 
 ![Bobasong](Renders/SecondRoundVoting/BobasongWithTeaRenderV2Edited.png)
 
+## IMPORTANT NOTE: 
+- THE G10 BOBASONG (SUBMISSION FOR CREATE WITH NABALIS 2025) CONTAINS JANKY ZEN PIN GEOMETRY AND A SKEWED BLADE. IT WAS MADE FOR RENDERS, NOT MACHINES! 
+- I am in the process of re-designing the G10 Bobasong to be better fit for machining.
+- In the meantime, consider checking out the 7075 Full Slab Bobasong (Slaboba) for a more refined version of the Bobasong design.
+
 
 
 # License
