@@ -5,7 +5,7 @@ I didn't get first place for mass production, so I decided to open source the de
 ![Bobasong](Renders/SecondRoundVoting/BobasongWithTeaRenderV2Edited.png)
 
 ## IMPORTANT NOTE: 
-- **UPDATE**: [cikey_chan](https://www.instagram.com/cikey_chan) from Nabalis modeled the G10 Bobasong, and produced a prototype with Nabalis! Feel free to manufacture and build upon the updated "bobasong-250806_asm.stp" step file.
+- **UPDATE**: [cikey_chan](https://www.instagram.com/cikey_chan) from Nabalis modeled the G10 Bobasong, and produced a prototype with Nabalis! Feel free to manufacture and build upon the updated ["bobasong-250806_asm.stp"](https://github.com/disukomusic/Bobasong/blob/main/Project%20Files/CAD/bobasong-250806_asm.stp) step file.
 -  ~~THE ORIGINAL G10 BOBASONG (SUBMISSION FOR CREATE WITH NABALIS 2025) CONTAINS JANKY ZEN PIN GEOMETRY AND A SKEWED BLADE. IT WAS MADE FOR RENDERS, NOT MACHINES!~~
 -  ~~In the meantime, consider checking out the 7075 Full Slab Bobasong (Slaboba) for a more refined version of the Bobasong design.~~
 
