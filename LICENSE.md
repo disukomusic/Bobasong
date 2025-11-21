@@ -28,7 +28,7 @@ You may use, copy, share, and adapt the Work for **personal and non-commercial p
 **Commercial use is not permitted** without prior written permission from the copyright holder and reasonable adjustments/changes/improvements to the design.
 
 To request commercial use rights, contact:  
-**disukomusic@gmail.com**
+**angelo@disuko.gay**
 
 ---
 
